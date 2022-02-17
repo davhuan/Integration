@@ -1,0 +1,92 @@
+<response xmlns="http://ws.apache.org/ns/synapse">
+    <leads xmlns="http://ws.wso2.org/dataservice">
+        <lead id="00001">
+            <name>Saab AB2</name>
+            <address>Storgatan 23</address>
+            <zip>34567</zip>
+            <city>Karlstad</city>
+            <contact>Pelle Jansffffson</contact>
+            <tele>0776-232444323</tele>
+            <size>100-200</size>
+            <current_provider>NA</current_provider>
+            <email>info@saab.xxx</email>
+        </lead>
+		<lead id="00002">
+            <name>Saab AB2ddddddddddddd</name>
+            <address>Storgatan 23</address>
+            <zip>34567</zip>
+            <city>Karlstad</city>
+            <contact>Pelleeee Jansson</contact>
+            <tele>0776-2324323</tele>
+            <size>100-200</size>
+            <current_provider>NA</current_provider>
+            <email>info@saab.xxx</email>
+        </lead>
+		<lead id="00003">
+            <name>Saab AB2fffffffffff</name>
+            <address>Storgatan 23</address>
+            <zip>34567</zip>
+            <city>Karlstad</city>
+            <contact>Pelle Jransson</contact>
+            <tele>0776-2324323</tele>
+            <size>100-200</size>
+            <current_provider>NA</current_provider>
+            <email>info@saab.xxx</email>
+        </lead>
+		<lead id="00004">
+            <name>Saab AB2333333fffffffffff</name>
+            <address>Storgatan 23</address>
+            <zip>34567</zip>
+            <city>Karlstad</city>
+            <contact>Pelle Jancsson</contact>
+            <tele>0776-2342323</tele>
+            <size>100-200</size>
+            <current_provider>NA</current_provider>
+            <email>info@saab.xxx</email>
+        </lead>
+		<lead id="00005">
+            <name>Saab AB2fffffffffggfdff</name>
+            <address>Storgatan 23</address>
+            <zip>34567</zip>
+            <city>Karlstad</city>
+            <contact>Pelle Jaaansson</contact>
+            <tele>0776-2323233</tele>
+            <size>100-200</size>
+            <current_provider>NA</current_provider>
+            <email>info@saab.xxx</email>
+        </lead>
+		<lead id="00006">
+            <name>Saab AB2ffrrfffffffff</name>
+            <address>Storgatan 23</address>
+            <zip>34567</zip>
+            <city>Karlstad</city>
+            <contact>Pelle Janshson</contact>
+            <tele>0776-2323523</tele>
+            <size>100-200</size>
+            <current_provider>NA</current_provider>
+            <email>info@saab.xxx</email>
+        </lead>
+		<lead id="00007">
+            <name>Saab AB2fcffffffffff</name>
+            <address>Storgatan 23</address>
+            <zip>34567</zip>
+            <city>Karlstad</city>
+            <contact>Pelle Jansjson</contact>
+            <tele>0776-2632323</tele>
+            <size>100-200</size>
+            <current_provider>NA</current_provider>
+            <email>info@saab.xxx</email>
+        </lead>
+		<lead id="00008">
+            <name>Saab AB2ffffffffffff</name>
+            <address>Storgatan 23</address>
+            <zip>34567</zip>
+            <city>Karlstad</city>
+            <contact>Pelle Janjsson</contact>
+            <tele>0776-2323203</tele>
+            <size>100-200</size>
+            <current_provider>NA</current_provider>
+            <email>info@saab.xxx</email>
+        </lead>
+    </leads>
+</response>

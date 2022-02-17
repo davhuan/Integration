@@ -1,0 +1,114 @@
+<response xmlns="http://ws.apache.org/ns/synapse">
+    <leads xmlns="http://ws.wso2.org/dataservice">
+        <lead id="00001">
+            <name>Saab AB 3</name>
+            <address>Storgatan 23</address>
+            <zip>34567</zip>
+            <city>Karlstad</city>
+            <contact>Pelle Jansson3</contact>
+            <tele>0776-232333</tele>
+            <size>100-200</size>
+            <current_provider>NA</current_provider>
+            <email>info@saab.xxx</email>
+        </lead>
+        <lead id="00002">
+            <name>Volvo AB 3</name>
+            <address>Lillgatan 34</address>
+            <zip>23456</zip>
+            <city>Karlstad</city>
+            <contact>Åsa Andersson3</contact>
+            <tele>054-1818233</tele>
+            <size>300-500</size>
+            <current_provider>NA</current_provider>
+            <email>info@volvo.xxx</email>
+        </lead>
+        <lead id="00003">
+            <name>Nikita Hair 3</name>
+            <address>Hagen 34</address>
+            <zip>23458</zip>
+            <city>Karlstad</city>
+            <contact>&gt;Karl P Dahl Andersson3</contact>
+            <tele>010-1818233</tele>
+            <size>10</size>
+            <current_provider>Google</current_provider>
+            <email>pdahl@nikita.se</email>
+        </lead>
+        <lead id="00004">
+            <name>Art Uppsala 3</name>
+            <address>Västra vägen 34</address>
+            <zip>13456</zip>
+            <city>Uppsala</city>
+            <contact>Mirjam Woo3</contact>
+            <tele>081-4368233</tele>
+            <size>1-10</size>
+            <current_provider>NA</current_provider>
+            <email>mirjam.woo@telia.se</email>
+        </lead>
+        <lead id="00005">
+            <name>Blond 3</name>
+            <address>Centrumringen 34</address>
+            <zip>23422</zip>
+            <city>Uppsala</city>
+            <contact>Lisa Minelli3</contact>
+            <tele>075-1818233</tele>
+            <size>7</size>
+            <current_provider>NA</current_provider>
+            <email>info@blond.se</email>
+        </lead>
+        <lead id="00006">
+            <name>Rufs och Kalufs 3</name>
+            <address>Tegnergatan 34</address>
+            <zip>13456</zip>
+            <city>Stockholm</city>
+            <contact>Rufus Larsson3</contact>
+            <tele>08-231818233</tele>
+            <size>300-500</size>
+            <current_provider>Yahoo</current_provider>
+            <email>rufusaurus@gmail.com</email>
+        </lead>
+        <lead id="00007">
+            <name>Klipp It 3</name>
+            <address>Västra Storgatan 34</address>
+            <zip>12456</zip>
+            <city>Stockolm</city>
+            <contact>Muhammed Demirbag3</contact>
+            <tele>08-183899233</tele>
+            <size>3-5</size>
+            <current_provider>NA</current_provider>
+            <email>info@klippit.se</email>
+        </lead>
+        <lead id="00008">
+            <name>Frisörstugan Västerås 3</name>
+            <address>Kungstångsgatan 34</address>
+            <zip>33456</zip>
+            <city>Västerås</city>
+            <contact>Isa Andersson3</contact>
+            <tele>011-4318233</tele>
+            <size>3</size>
+            <current_provider>Google</current_provider>
+            <email>miss_andersson@epost.se</email>
+        </lead>
+        <lead id="00009">
+            <name>Brukets Skidbacke 3</name>
+            <address>Brukets Skidanläggning</address>
+            <zip>13456</zip>
+            <city>Järfälla</city>
+            <contact>Stig Strand3</contact>
+            <tele>08-1228233</tele>
+            <size>10-50</size>
+            <current_provider>Google</current_provider>
+            <email>info@bruket.se</email>
+        </lead>
+        <lead id="00010">
+            <name>Fritidscenter 3</name>
+            <address>Vasaplatsen 34</address>
+            <zip>13444</zip>
+            <city>Stockholm</city>
+            <contact>Peter Pan3</contact>
+            <tele>08-5808233</tele>
+            <size>10-50</size>
+            <current_provider>NA</current_provider>
+            <email>peterthepan@gmail.com</email>
+        </lead>
+    </leads>
+</response>
